@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning **Android Development** and **Game Development** at SaiGon University.
 - 👀 I’m highly interested in improving my **English** skills.
 - 💞️ I’m looking forward to building amazing apps and games.
-- 📫 How to reach me: [GitHub](https://github.com/RKBromen) | [Email](mailto:tanconghiep2005@gmail.com)
+- 📫 How to reach me: [GitHub](https://github.com/RKBromen) | [Email](mailto:?to=tanconghiep2005@gmail.com)
 - 😄 Pronouns: He/Him
 - 👦 Another name: Johnny
 
@@ -31,7 +31,13 @@
 
 ---
 
+### 💻 Project
+
+- Caro Flutter(https://github.com/cuong9565/CaroFlutter)
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKBromen&theme=tokyonight&hide_border=true" alt="RKBromen's GitHub Streak" />
 </p>
